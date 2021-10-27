@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51d7b0-ba28-4560-b986-2202a26e2ab1" name="Changes" comment="" />
+    <list default="true" id="9b51d7b0-ba28-4560-b986-2202a26e2ab1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FirstMaven/src/main/java/org/cyx/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstMaven/src/main/java/org/cyx/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstMaven/target/FirstMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstMaven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FirstMaven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstMaven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FirstMaven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,11 +35,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FirstMaven/src/main/java/org" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FirstMaven/src/main/java/org/cyx" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Cyx\Documents\GitProject\Hello_world\FirstMaven\src\main\java\org\cyx" />
       <recent name="D:\Users\Cyx\Documents\GitProject\Hello_world\FirstMaven\src\main\java\org" />
       <recent name="D:\Users\Cyx\Documents\GitProject\Hello_world\FirstMaven\src\main\java" />
     </key>
@@ -40,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635349922336</updated>
-      <workItem from="1635349924184" duration="412000" />
+      <workItem from="1635349924184" duration="608000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@ package org.cyx;
 
 import java.util.Arrays;
 
-public class Array {
+public class ArrayTest {
     public static void main(String[] args) {
         /**
          * 26. 删除有序数组中的重复项
