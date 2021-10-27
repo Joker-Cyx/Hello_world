@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51d7b0-ba28-4560-b986-2202a26e2ab1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/FirstMaven/src/main/java/org/cyx/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstMaven/src/main/java/org/cyx/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstMaven/target/FirstMaven-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstMaven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FirstMaven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstMaven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FirstMaven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-    </list>
+    <list default="true" id="9b51d7b0-ba28-4560-b986-2202a26e2ab1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +48,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635349922336</updated>
-      <workItem from="1635349924184" duration="608000" />
+      <workItem from="1635349924184" duration="731000" />
     </task>
+    <task id="LOCAL-00001" summary="【Leetcode练习】 Array">
+      <created>1635350601857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635350601857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="【Leetcode练习】 Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="【Leetcode练习】 Array" />
   </component>
 </project>
