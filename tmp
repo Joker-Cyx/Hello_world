@@ -1,0 +1,15 @@
+function cf() {
+    [ -d ./tmppkg/$app_name ] && rm -rf ./tmppkg/$app_name
+    unzip $file -d ./tmppkg/$app_name
+    cd ./tmppkg/$app_name
+    find . -name "*.sh" | xargs sed -i 's/\r//'
+    zip -mr $file *
+    cd $CUR_PATH
+    # TODO move and rm dir
+}
+
+for file in $files; do
+    app_name=${file%.zip*}
+    echo $app_name
+    cf
+done
